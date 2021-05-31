@@ -1,9 +1,9 @@
 # Radio-TOP-100
-=1 Projetinho 👨‍🎓
-RADIO TOP 100
-Modoficado para diversão
++1 Projetinho 👨‍🎓
+# RADIO TOP 100
+#Modoficado para diversão
 
-Como usar / How to use
+#Como usar / How to use
 * Acesse o arquivo index.html / Access the index.html file.
 * Adiciona fontes de vídeo / Add video sources.
 * acesse o arquivo main.js / access the main.js file
