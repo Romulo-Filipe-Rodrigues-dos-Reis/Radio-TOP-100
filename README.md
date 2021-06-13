@@ -1,5 +1,5 @@
 # Radio-TOP-100
-+1 Projetinho 👨‍🎓
+Projetinho 👨‍🎓
 Modoficado para diversão
 
 Como usar / How to use
