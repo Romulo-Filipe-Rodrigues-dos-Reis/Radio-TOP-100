@@ -1,6 +1,4 @@
 # Radio-TOP-100
-Projetinho 👨‍🎓
-Modoficado para diversão
 
 Como usar / How to use
 * Acesse o arquivo index.html / Access the index.html file.
